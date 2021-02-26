@@ -2,6 +2,7 @@
 Translation of Imperium Universalis to German.
 
 Übersetzung von Imperium Universalis ins Deutsche.
+------------------------------------------------------
 
 Übersetzer:
 
